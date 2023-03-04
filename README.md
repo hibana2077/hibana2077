@@ -25,3 +25,5 @@ Learning Python, Data Science, and Machine Learning.
 
 ![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&bg_color=90,FEFBF3,CDF0EA)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibana2077&count_private=true&show_icons=true&bg_color=90,FEFBF3,CDF0EA)
+
+![Views](https://komarev.com/ghpvc/?username=hibana2077&style=flat-square&color=green)
