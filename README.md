@@ -9,7 +9,9 @@
 
 ## 👨🏻‍💻 About me
 
-- 💼 &nbsp; College student at [National Taitung University](https://www.nttu.edu.tw/) (NTTU)
+Programmer, Maker, and a student.
+
+Learning Python, Data Science, and Machine Learning.
 
 ## 🛠 Tech Stack
 
@@ -19,15 +21,7 @@
 - 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` | `Kubernetes` | `Linux` |
 - 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` |
 
-<p align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=hibana2077&show_icons=true&theme=radical" />
-  <br/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&layout=compact&theme=radical&locale=cn" />
-  <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&langs_count=8&theme=radical&locale=cn" />
-  <br />
-</p>
-<hr>
+# Statistics
 
-<!-- icons https://github.com/Envoy-VC/awesome-badges -->
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&bg_color=90,FEFBF3,CDF0EA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibana2077&count_private=true&show_icons=true&bg_color=90,FEFBF3,CDF0EA)
