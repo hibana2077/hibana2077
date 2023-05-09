@@ -16,7 +16,7 @@ Learning Python, Web Framework, Data Science, and Machine Learning.
 ## 🛠 Tech Stack
 
 - 💻 &nbsp; | `javascript` | `Python` | `Golang` | `C/C++` | `Rust` | `Dart` | `Julia` |
-- 🌐 &nbsp; | `HTML5` | `CSS3` | `Node` | `Vite` | `Vue` | `Vuetify` |
+- 🌐 &nbsp; | `HTML5` | `CSS3` | `Node` | `Vite` | `Vue` | `Vuetify` |`Nuxt`|`Primevue`|
 - 🛢 &nbsp; | `MongoDB` | `SQLite` | `MYSQL` |
 - 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` | `Kubernetes` | `Linux` |
 - 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` |
