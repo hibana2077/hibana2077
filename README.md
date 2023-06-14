@@ -23,8 +23,6 @@ Learning Python, Web Framework, Data Science, and Machine Learning.
 
 # Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hibana2077&show_icons=true&theme=merko&layout&include_all_commits=true)
-<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&theme=merko&layout=compact&langs_count=10)
 
 ![Views](https://komarev.com/ghpvc/?username=hibana2077&style=flat-square&color=green)
