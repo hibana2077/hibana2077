@@ -21,8 +21,7 @@ Learning Python, Web Framework, Data Science, and Machine Learning.
 - 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` | `Kubernetes` | `Linux` |
 - 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` |
 
-# Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&theme=merko&layout=compact&langs_count=10)
-
-![Views](https://komarev.com/ghpvc/?username=hibana2077&style=flat-square&color=green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hibana2077&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hibana2077&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
