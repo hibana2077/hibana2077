@@ -22,6 +22,8 @@ Learning Python, Web Framework, Data Science, and Machine Learning.
 - 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hibana2077&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hibana2077&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibana2077&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibana2077&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibana2077&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibana2077&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibana2077&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibana2077&theme=github)
