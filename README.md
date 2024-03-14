@@ -11,7 +11,7 @@
 
 Programmer, Maker, and a student.
 
-Learning Python, Web Framework, Data Science, and Machine Learning.
+Interested in Web Framework, Data Science, and Machine Learning.
 
 ## 🛠 Tech Stack
 
