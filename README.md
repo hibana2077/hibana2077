@@ -2,7 +2,7 @@
  * @Author: hibana2077 hibana2077@gmail.com
  * @Date: 2024-03-27 13:39:37
  * @LastEditors: hibana2077 hibana2077@gmail.com
- * @LastEditTime: 2024-03-27 14:09:43
+ * @LastEditTime: 2024-03-27 14:18:59
  * @FilePath: \hibana2077\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -31,8 +31,9 @@ Interested in Web Framework, Data Science, and Machine Learning.
 
 # 📊 GitHub Stats:
 
-![overview](./generated/overview.svg)
 ![languages](./generated/languages.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibana2077&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibana2077&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibana2077&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibana2077&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibana2077&theme=github)
