@@ -22,8 +22,8 @@ Interested in Web Framework, Data Science, and Machine Learning.
 - 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` |
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibana2077&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibana2077&theme=github)
+![overview](https://raw.githubusercontent.com/hibana2077/hibana2077/output/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/hibana2077/hibana2077/output/generated/languages.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibana2077&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibana2077&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibana2077&theme=github)
