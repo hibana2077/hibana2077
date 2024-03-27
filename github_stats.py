@@ -48,6 +48,8 @@ class Queries(object):
                 r = requests.post("https://api.github.com/graphql",
                                   headers=headers,
                                   json={"query": generated_query})
+                print(r.status_code)
+                print(r.json())
                 return r.json()
 
     async def query_rest(self, path: str, params: Optional[Dict] = None) -> Dict:
@@ -72,8 +74,8 @@ class Queries(object):
                                                headers=headers,
                                                params=tuple(params.items()))
                 if r.status == 202:
-                    # print(f"{path} returned 202. Retrying...")
-                    print(f"A path returned 202. Retrying...")
+                    print(f"{path} returned 202. Retrying...")
+                    # print(f"A path returned 202. Retrying...")
                     await asyncio.sleep(2)
                     continue
 
@@ -314,6 +316,8 @@ Languages:
                 repos += contrib_repos.get("nodes", [])
             else:
                 for repo in contrib_repos.get("nodes", []):
+                    if repo is None:
+                        continue
                     name = repo.get("nameWithOwner")
                     if name in self._ignored_repos or name in self._exclude_repos:
                         continue
