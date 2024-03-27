@@ -43,6 +43,8 @@ async def generate_overview(s: Stats) -> None:
     output = re.sub("{{ views }}", f"{await s.views:,}", output)
     output = re.sub("{{ repos }}", f"{len(await s.all_repos):,}", output)
 
+    print(output)
+
     generate_output_folder()
     with open("generated/overview.svg", "w") as f:
         f.write(output)
@@ -108,7 +110,7 @@ async def main() -> None:
     exclude_repos = os.getenv("EXCLUDED")
     exclude_repos = ({x.strip() for x in exclude_repos.split(",")}
                      if exclude_repos else None)
-    exclude_langs = os.getenv("EXCLUDED_LANGS")
+    exclude_langs = os.getenv("EXCLUDED_LANGS", "Jupyter Notebook")
     exclude_langs = ({x.strip() for x in exclude_langs.split(",")}
                      if exclude_langs else None)
     consider_forked_repos = len(os.getenv("COUNT_STATS_FROM_FORKS",[])) != 0
