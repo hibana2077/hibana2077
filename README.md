@@ -27,7 +27,7 @@ Interested in Web Framework, Data Science, and Machine Learning.
 - 🌐 &nbsp; | `Vite` | `Vue` | `Tailwind CSS` | `React` | `Astro` | `Svelte` |
 - 🛢 &nbsp; | `MongoDB` | `SQLite` | `MYSQL` | `Neo4j` |
 - 🔧 &nbsp; | `Git` | `Docker` | `Kubernetes` | `Linux` |
-- 🖥 &nbsp; | `Heroku` | `repl.it` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` | `Linode` |
+- 🖥 &nbsp; | `Heroku` | `Raspberry` | `Arduino` | `GCP` | `AWS` | `Azure` | `Linode` |
 - 📚 &nbsp; | `Hugging face` | `Pytorch` | `Streamlit` |
 
 ## 📊 GitHub Stats
