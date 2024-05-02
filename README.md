@@ -32,7 +32,7 @@ Interested in Web Framework, Data Science, and Machine Learning.
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hibana2077&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hibana2077&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 ![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibana2077&theme=vue)
 ![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibana2077&theme=vue)
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibana2077&theme=vue)
