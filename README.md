@@ -23,7 +23,7 @@ Interested in Web Framework, Data Science, and Machine Learning.
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,cmake,css,js,jquery,git,html,py,react,typescript" /><br>
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,css,js,jquery,git,html,py,react,typescript" /><br>
 <img src="https://skillicons.dev/icons?i=arduino,vim,docker,anaconda,github,gitlab,matlab,opencv,nginx,stackoverflow" /><br>
 <img src="https://skillicons.dev/icons?i=linkedin,linux,vscode,postman" /><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,qt" /><br>
