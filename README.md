@@ -1,27 +1,24 @@
-<!--
- * @Author: hibana2077 hibana2077@gmail.com
- * @Date: 2024-03-27 13:39:37
- * @LastEditors: hibana2077 hibana2077@gmail.com
- * @LastEditTime: 2024-04-09 09:20:14
- * @FilePath: \hibana2077\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibana2077&theme=vue&utcOffset=+8)
- 
--->
-
 <h1 align="center">
-  <a href="https://hibana2077.com">hibana2077</a>
-
+  <h1 align="center">Hi 👋, I'm <a href="https://hibana2077.com">hibana2077</a></h1>
   <br />
 
   ![https://avatars.githubusercontent.com/u/72302793?v=4](https://avatars.githubusercontent.com/u/72302793?size=128)
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+hibana2077+💖;CS+Student+from+Taiwan;Loves+Coding+and+Money;Always+learning+%26+growing+🌱;Always+learning+%26+improving+🧠" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hibana2077&label=Profile+views&color=0e75b6&style=flat" alt="hibana2077" />
+</p>
+
+
 ## 👨🏻‍💻 About me
 
 Programmer, Maker, and a student.
 
-Interested in Web Framework, Data Science, and Machine Learning.
+Interested in Computer Vision, Stochastic Point Processes, and Machine Learning.
 
 ## 🛠 Tech Stack
 
