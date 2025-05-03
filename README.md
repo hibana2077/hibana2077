@@ -1,7 +1,6 @@
+<h1 align="center">Hi 👋, I'm <a href="https://hibana2077.com">hibana2077</a></h1>
 <h1 align="center">
-  <h1 align="center">Hi 👋, I'm <a href="https://hibana2077.com">hibana2077</a></h1>
   <br />
-
   ![https://avatars.githubusercontent.com/u/72302793?v=4](https://avatars.githubusercontent.com/u/72302793?size=128)
 </h1>
 
