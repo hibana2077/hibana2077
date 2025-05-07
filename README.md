@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+hibana2077+💖;CS+Student+from+Taiwan;Loves+Coding+and+Money;Always+learning+%26+growing+🌱;Always+learning+%26+improving+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+hibana2077+💖;CS+Student+from+Taiwan;Exploring+ML's+Foundations+%26+Essence;Solving+Problems+from+First+Principles+🔍;Researching+Probabilistic+ML+%26+Representation+Learning;Empowering+People+with+ML+🧠" />
 </p>
 
 <p align="center">
