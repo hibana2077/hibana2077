@@ -30,8 +30,21 @@ Interested in Computer Vision, Representation Learning, and Machine Learning.
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hibana2077&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibana2077&theme=vue)
-![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibana2077&theme=vue)
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibana2077&theme=vue)
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibana2077&theme=vue)
+<a href="https://github.com/hibana2077">
+  <img align="center" width="100%" src="./header.svg" />
+</a>
+<a href="https://github.com/hibana2077">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<a href="https://github.com/hibana2077">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/hibana2077">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/hibana2077">
+  <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<a href="https://github.com/hibana2077">
+  <img align="right" src="./metadata.svg" />
+</a></br></br></br>
