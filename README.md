@@ -18,7 +18,7 @@
 
 Programmer, Maker, and a student.
 
-Interested in Computer Vision, Stochastic Point Processes, and Machine Learning.
+Interested in Computer Vision, Representation Learning, and Machine Learning.
 
 ## 🛠 Tech Stack
 
