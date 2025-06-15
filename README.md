@@ -18,7 +18,7 @@
 
 Programmer, Maker, and a student.
 
-Interested in Computer Vision, Representation Learning, and Machine Learning.
+Interested in video and image processing, one- and few-shot learning, deep learning, tensor learning, and domain adaptation.
 
 ## 🛠 Tech Stack
 
