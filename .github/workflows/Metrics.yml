@@ -1,0 +1,94 @@
+name: Generate GitHub Metrics SVGs
+
+on:
+  # 每日 00:00 (Asia/Taipei) 自動執行，可手動觸發或在 push 時執行
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+# 同一個 ref 只保留最後一次執行，避免併發衝突
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Generate header.svg (base: header)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: header
+          config_timezone: Asia/Taipei
+
+      - name: Generate acti_comm.svg (base: activity, community)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: acti_comm.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: activity, community
+          config_timezone: Asia/Taipei
+
+      - name: Generate iso_calendar.svg (ISO calendar plugin)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Taipei
+
+      - name: Generate issue_pr_lang.svg (follow‑up & languages)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: issue_pr_lang.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: ""
+          plugin_followup: yes
+          plugin_languages: yes
+          config_timezone: Asia/Taipei
+
+      - name: Generate metadata.svg (base: metadata)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metadata.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: metadata
+          config_timezone: Asia/Taipei
+
+      - name: Generate repositories.svg (base: repositories)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: hibana2077
+          template: classic
+          base: repositories
+          config_timezone: Asia/Taipei
