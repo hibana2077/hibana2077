@@ -40,7 +40,7 @@ Interested in video and image processing, one- and few-shot learning, deep learn
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
 <a href="https://github.com/hibana2077">
-  <img align="center" width="49%" src="./iso_calender.svg" />
+  <img align="center" width="49%" src="./iso_calendar.svg" />
 </a>
 <a href="https://github.com/hibana2077">
   <img align="center" width="49%" src="./issue_pr_lang.svg" />
