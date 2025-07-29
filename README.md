@@ -27,24 +27,3 @@ Interested in video and image processing, one- and few-shot learning, deep learn
 <img src="https://skillicons.dev/icons?i=linkedin,linux,vscode,postman" /><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,qt" /><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/hibana2077">
-  <img align="center" width="100%" src="./header.svg" />
-</a>
-<a href="https://github.com/hibana2077">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-<a href="https://github.com/hibana2077">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/hibana2077">
-  <img align="center" width="49%" src="./iso_calendar.svg" />
-</a>
-<a href="https://github.com/hibana2077">
-  <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/hibana2077">
-  <img align="right" src="./metadata.svg" />
-</a></br></br></br>
